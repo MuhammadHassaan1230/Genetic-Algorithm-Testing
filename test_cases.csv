@@ -1,0 +1,31 @@
+Type,Date,Category
+Valid,29/02/4124,Leap Year
+Valid,01/12/4360,31-day Month
+Valid,31/01/5772,31-day Month
+Valid,01/02/4568,Leap Year
+Valid,29/02/9452,Leap Year
+Valid,28/01/5860,31-day Month
+Valid,29/02/4448,Leap Year
+Valid,28/01/6872,31-day Month
+Valid,30/06/9852,30-day Month
+Valid,28/12/8372,31-day Month
+Invalid,30/02/6984,Invalid
+Invalid,31/06/4368,Invalid
+Invalid,30/02/3948,Invalid
+Invalid,30/02/5868,Invalid
+Invalid,31/02/5044,Invalid
+Invalid,30/02/7960,Invalid
+Invalid,30/02/5972,Invalid
+Invalid,31/06/4360,Invalid
+Invalid,30/02/6180,Invalid
+Invalid,30/02/6976,Invalid
+Boundary,30/04/2023,30-day Month
+Boundary,31/12/9999,31-day Month
+Boundary,29/02/2000,Leap Year
+Boundary,28/02/2023,February
+Boundary,29/02/2020,Leap Year
+Boundary,28/02/2100,February
+Boundary,31/12/1999,31-day Month
+Boundary,01/01/2000,31-day Month
+Boundary,01/01/0000,31-day Month
+Boundary,31/01/2023,31-day Month
